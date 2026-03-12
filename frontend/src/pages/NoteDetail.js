@@ -3,7 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import { motion } from 'framer-motion';
 import { ArrowLeft, Download, Edit, Trash2, FileText, Calendar, Sparkles } from 'lucide-react';
-import { Button } from '../components/ui/button';
+import { Button } from '../components/button';
 import { toast } from 'sonner';
 import { notesAPI, pdfAPI } from '../api/client';
 

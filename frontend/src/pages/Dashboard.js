@@ -2,7 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { Upload, FolderOpen, Search, FileText, Sparkles } from 'lucide-react';
-import { Button } from '../components/ui/button';
+import { Button } from '../components/button';
 
 export const Dashboard = () => {
   const navigate = useNavigate();

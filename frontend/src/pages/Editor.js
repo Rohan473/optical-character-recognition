@@ -2,11 +2,11 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate, useLocation } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { ArrowLeft, Save, Download, Loader2, FileText, Sparkles } from 'lucide-react';
-import { Button } from '../components/ui/button';
-import { Textarea } from '../components/ui/textarea';
-import { Input } from '../components/ui/input';
-import { Label } from '../components/ui/label';
-import { Progress } from '../components/ui/progress';
+import { Button } from '../components/button';
+import { Textarea } from '../components/textarea';
+import { Input } from '../components/input';
+import { Label } from '../components/label';
+import { Progress } from '../components/progress';
 import { toast } from 'sonner';
 import { getImagePreviewUrl, ocrAPI, notesAPI, pdfAPI } from '../api/client';
 
