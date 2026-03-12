@@ -3,8 +3,8 @@ import { useNavigate } from 'react-router-dom';
 import { useDropzone } from 'react-dropzone';
 import { motion } from 'framer-motion';
 import { Upload as UploadIcon, Image as ImageIcon, ArrowLeft, CheckCircle2, Loader2 } from 'lucide-react';
-import { Button } from '../components/ui/button';
-import { Progress } from '../components/ui/progress';
+import { Button } from '../components/button';
+import { Progress } from '../components/progress';
 import { toast } from 'sonner';
 import { ocrAPI } from '../api/client';
 
