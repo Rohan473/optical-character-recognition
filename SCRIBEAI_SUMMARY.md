@@ -6,8 +6,6 @@ Your OCR project has been successfully enhanced into **ScribeAI**, a full-featur
 
 ---
 
-## ✅ What's Been Built
-
 ### Core Features Implemented
 
 1. **TrOCR Integration** ✅
@@ -402,3 +400,4 @@ This would make ScribeAI even more powerful for students and professionals revie
 ---
 
 **ScribeAI v1.0 - Transform handwriting into searchable digital knowledge** ✨
+
