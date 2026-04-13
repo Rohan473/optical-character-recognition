@@ -43,8 +43,6 @@ yarn install
 yarn start
 ```
 
-Access the app at **http://localhost:3000**
-
 ## 📖 Documentation
 
 - [ScribeAI Summary](SCRIBEAI_SUMMARY.md) - Complete feature overview
